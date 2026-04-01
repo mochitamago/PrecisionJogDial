@@ -8,7 +8,7 @@ A highly customizable, precision rotary dial component for SwiftUI.
 
 Designed for apps that need precise value scrubbing, **JogDial** features concentric rings for variable drag sensitivity (Coarse, Normal, Fine), a unique "magnifying lens" UI, and snappy haptic feedback.
 
-[<video src="https://raw.githubusercontent.com/mochitamago/PrecisionJogDial/main/Screen%20Recording%202026-04-01%20at%2010.41.24.mov" width="300" controls></video>](https://raw.githubusercontent.com/mochitamago/PrecisionJogDial/main/Screen%20Recording%202026-04-01%20at%2010.41.24.mov)
+![Precision JogDial Demo](PrecisionJogDial.gif)
 
 ## ✨ Features
 
