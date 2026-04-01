@@ -8,7 +8,7 @@ A highly customizable, precision rotary dial component for SwiftUI.
 
 Designed for apps that need precise value scrubbing, **JogDial** features concentric rings for variable drag sensitivity (Coarse, Normal, Fine), a unique "magnifying lens" UI, and snappy haptic feedback.
 
-<video src="https://raw.githubusercontent.com/mochitamago/PrecisionJogDial/main/Screen%20Recording%202026-04-01%20at%2010.41.24.mov" width="300" controls></video>
+[<video src="https://raw.githubusercontent.com/mochitamago/PrecisionJogDial/main/Screen%20Recording%202026-04-01%20at%2010.41.24.mov" width="300" controls></video>](https://raw.githubusercontent.com/mochitamago/PrecisionJogDial/main/Screen%20Recording%202026-04-01%20at%2010.41.24.mov)
 
 ## ✨ Features
 
@@ -131,6 +131,14 @@ JogDialView(
 | `ringGap` | Spacing between concentric rings. | `4` |
 | `tickLength` | Length of the small tick marks (major ticks are scaled 1.8x). | `6` |
 | `hapticsEnabled`| Toggle Taptic Engine feedback. | `true` |
+
+## 🤝 Attribution
+
+JogDial is released under the MIT License. While not strictly required, if you use this component in your app, a shoutout in your app's "About" page or credits section is highly appreciated! 
+
+**Suggested format:**
+> Precision JogDial component created by Cong. 
+> [https://github.com/mochitamago/PrecisionJogDial](https://github.com/mochitamago/PrecisionJogDial)
 
 ### 📝 License
 JogDial is released under the MIT license. See LICENSE for details.
